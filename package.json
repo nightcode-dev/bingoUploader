@@ -1,0 +1,25 @@
+{
+  "name": "bingouploader",
+  "version": "1.0.0",
+  "description": "a uploader project for Practice nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightcode-dev/bingoUploader.git"
+  },
+  "keywords": [
+    "uploader",
+    "source",
+    "example",
+    "Practice"
+  ],
+  "author": "nightcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightcode-dev/bingoUploader/issues"
+  },
+  "homepage": "https://github.com/nightcode-dev/bingoUploader#readme"
+}
